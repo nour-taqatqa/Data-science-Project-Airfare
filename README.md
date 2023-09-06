@@ -1,6 +1,6 @@
 ## Airfare analysis from year 1995
 
-This project was made to explore the trends of airfare analysis for US-bound flights since 1995, and assess whether there has been an increase in prices or not.
+This project explores the trends of airfare for US-bound flights since 1995, and assesses any increases or decreases in price. All prices used are ticket-only prices (including taxes) and only account for 10% of all US-bound flights that happend from 1995 until now.
 
 Libraries used: pandas, numPy, matplotlib, seaborn, sklearn, tensorflow 
 

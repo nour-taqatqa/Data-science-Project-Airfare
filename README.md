@@ -6,4 +6,4 @@ Libraries used: pandas, numPy, matplotlib, seaborn, sklearn, tensorflow
 
 The project inlcudes descriptive analyses, statistical and contextual assumptions, visual representations and a supervised machine learning model.
 
-Main dataset used can be found at https://www.bts.gov/air-fares - All prices used are inflation-adjusted prices.
+Main dataset used can be found at https://www.bts.gov/air-fares - all prices used are inflation-adjusted prices.

@@ -8,5 +8,4 @@ The project inlcudes descriptive analyses, statistical and contextual assumption
 
 Main dataset used can be found at https://www.bts.gov/air-fares 
 
-The Jupyter Notebook HTML versino can be found here: file:///C:/Users/nours/Downloads/Project%201%20-%20Air%20Fare%20Over%20The%20Years%20.html
 

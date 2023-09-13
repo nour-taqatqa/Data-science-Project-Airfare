@@ -7,6 +7,7 @@ Libraries used: pandas, numPy, matplotlib, seaborn, sklearn, tensorflow
 The project inlcudes descriptive analyses, statistical and contextual assumptions, visual representations and a supervised machine learning model.
 
 Main dataset used can be found at https://www.bts.gov/air-fares 
+
 GDP dataset can be found at https://www.statista.com/statistics/188105/annual-gdp-of-the-united-states-since-1990/
 
 
